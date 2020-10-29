@@ -1,9 +1,24 @@
 # Education Template
+# - layout: left
+#   name: Institution name
+#   dates: Date Range (eg. 2016 - 2019)
+#   qualification: Qualifications (eg. BA Performing Arts)
+#   quote: >
+#     Short institution or course description (optional)
+#   description: | # this will include new lines to allow paragraphs
+#     Description of qualification
+
+
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: University of Manitoba
+  dates: April 2017 - Current
+  qualification: B. Sc. Bachelor of Computer Science, Honours
   quote: >
     Short institution or course description (optional)
+    Founded in 1877, University of Manitoba is the first university of western Canada. 
+    Standing at 11th place in National School Ranking, it is home to many Nobel Prize recipients, 
+    Academy Award winners, Order of Merit recipients, and Olympic medalists, among many others.
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Started my study at the University of Manitoba in 2017, I have taken so many great courses
+    with wonderful professors and learnt most of my key skills such as teamwork and working under pressure (deadline:) )
+    Right now I am a senior student, actively searching for an internship and working motivatively on side projects (Game Dev)
