@@ -1,9 +1,27 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: UTTA Project
+  link: https://code.cs.umanitoba.ca/comp3350-winter2020/my-cool-project-6
+  gitlab: https://code.cs.umanitoba.ca/comp3350-winter2020/my-cool-project-6/-/tree/master
   quote: >
-    Short overview of the project (optional)
+    The University Textbook Trading Application (UTTA) is an application, developed by a group of university students
+    that allow students to buy and sell textbooks 
+    and course materials from other students. It will allow for students to sell and post their used 
+    course material and also allow students to purchase them, similar to Facebook Marketplace or Kijiji.
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    * Initially and successfully proposed origin ideal for UTTA project
+    * Produced automated acceptance test and system test
+    * Implemented important objects required for the application
+    * Comprehensively created and managed data in the database
+
+- layout: top-middle
+  name: Horror-Theme Text-Base Unity Game
+  link: https://code.cs.umanitoba.ca/comp3350-winter2020/my-cool-project-6
+  github: https://code.cs.umanitoba.ca/comp3350-winter2020/my-cool-project-6/-/tree/master
+  quote: >
+    A small self-motivated Unity game, using texts and interactive choices to tell a horror story
+  description: | # this will include new lines to allow paragraphs
+    * Used Unity to developed a text-based horror game
+    * Developed a horror story as the main theme of the game (inspired by Outlast and Amnesia series)
+    * Integrated main story and choices to keep player interested in the flow of the game
+
