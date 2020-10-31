@@ -1,0 +1,37 @@
+# Education Template
+- layout: left
+  name: Member of Agriculture BOT
+  dates: 2019
+  qualification: Qualifications (eg. BA Performing Arts)
+  quote: >
+    agBOT is an award-winning, interdisciplinary student team committed to the development of innovative,
+    autonomous agricultural machines and infrastructure that meet the needs of the future farmer.
+  description: | # this will include new lines to allow paragraphs
+    * Participated in Weed and Feed division
+    * Analized previous years data to suggest improvement
+    * Successfully upgraded GPS to improve the smart vehicle's cognition
+
+
+- layout: right
+  name: University of Manitoba's Orientation Volunteer
+  dates: 2019
+  quote: >
+    A two consecutive day of orientation for new students to help them get used to UoM, learn about the school's
+    policies and are introduced handy tips.
+  description: | # this will include new lines to allow paragraphs
+    * Assisted new students in attending a variety of presentations
+    * Inform new students about school policies
+    * Providing useful tips and welcome new students to the University of Manitoba
+
+
+- layout: left
+  name: CoderDojo Brisbane
+  dates: 2016
+  quote: >
+     CoderDojo built a global network of free, volunteer-led, community-based programming clubs for young people. 
+     Anyone aged seven to seventeen can visit a Dojo where they can learn to code, build a website,
+     create an app or a game, and explore technology in an informal, creative, and social environment.
+  description: | # this will include new lines to allow paragraphs
+    * Taught and inspired kids to learn to code led them to start mini-projects
+    * Presented cool and fun sample projects with instructions on how to make them to keep kids interested
+    * Inspired new cool designs in Minecraft mob by playing/testing kids' designs and provide meaningful feedback
