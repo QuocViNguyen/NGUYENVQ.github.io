@@ -1,37 +1,37 @@
 # Experience template
-- layout: left
-  company: Faculty of Science - University of Manitoba 
-  link: http://umanitoba.ca/
-  job_title: TA/Grader COMP2160
-  dates: September 2020 - till now
-  quote: >
-    COMP2160 is a Computer Science course which introduces to issues 
-    involved in real-world computing using C programming language.
-  description: | # this will include new lines to allow paragraphs
-    I am currently working as a TA/Marker for COMP2160 course which is an introduction course
-    to C programming language for second year students. Working with other TAs, I have lectured 
-    and assisted students on Lab materials and also:
-    * Provided anwsers to students' questions on forum
-    * Guided students to practice coding
-    * Marked students' work and provided helpful feedback
+# - layout: left
+#   company: Faculty of Science - University of Manitoba 
+#   link: http://umanitoba.ca/
+#   job_title: TA/Grader COMP2160
+#   dates: September 2020 - till now
+#   quote: >
+#     COMP2160 is a Computer Science course which introduces to issues 
+#     involved in real-world computing using C programming language.
+#   description: | # this will include new lines to allow paragraphs
+#     I am currently working as a TA/Marker for COMP2160 course which is an introduction course
+#     to C programming language for second year students. Working with other TAs, I have lectured 
+#     and assisted students on Lab materials and also:
+#     * Provided anwsers to students' questions on forum
+#     * Guided students to practice coding
+#     * Marked students' work and provided helpful feedback
 
 
-- layout: left
-  company: Easyke - OneClass
-  link: https://www.easyke.com/
-  job_title: Online Tutor 
-  dates: August 2020 - till now
-  quote: >
-    Easyke is an e-learning platform designed for international students at universities 
-    and high schools across North America, Australia and the UK.
-  description: | # this will include new lines to allow paragraphs
-    Beside working as a TA/Marker for Faculty of Science -UofM, I'm also an online tutor on Easyke.
-    My responsibilities are similar to a TA/Marker's, except that Easyke encourages tutors to share 
-    new knowledge and better ways to approach students' problem. There are variety of problems in Computer Science
-    and Math which I have:
-    * Helped students understand the problem and find the best approach
-    * Provided material and resources to assist students with their study 
-    * Initiated live lecture to enhance students' study experience 
+# - layout: left
+#   company: Easyke - OneClass
+#   link: https://www.easyke.com/
+#   job_title: Online Tutor 
+#   dates: August 2020 - till now
+#   quote: >
+#     Easyke is an e-learning platform designed for international students at universities 
+#     and high schools across North America, Australia and the UK.
+#   description: | # this will include new lines to allow paragraphs
+#     Beside working as a TA/Marker for Faculty of Science -UofM, I'm also an online tutor on Easyke.
+#     My responsibilities are similar to a TA/Marker's, except that Easyke encourages tutors to share 
+#     new knowledge and better ways to approach students' problem. There are variety of problems in Computer Science
+#     and Math which I have:
+#     * Helped students understand the problem and find the best approach
+#     * Provided material and resources to assist students with their study 
+#     * Initiated live lecture to enhance students' study experience 
 
 
 - layout: left
