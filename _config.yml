@@ -1,5 +1,5 @@
 # Site
-repository: QuocViNguyen/NGUYENVQ.github.io
+repository: QuocViNguyen/quocvinguyen.github.io
 #Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
@@ -11,18 +11,18 @@ phone: 204-291-9411
 website: https://quocvinguyen.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: true
+# darkmode: true
 
 
 # Social links
 #twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  QuocViNguyen
 #stackoverflow_username: "00000001"
 #dribbble_username: jekyll
-facebook_username: jekyll
+#facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
-linkedin_username: jekyll
+linkedin_username: quoc-nguyen-57064b194
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll

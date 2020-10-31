@@ -1,10 +1,53 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Faculty of Science - University of Manitoba 
+  link: http://umanitoba.ca/
+  job_title: TA/Grader COMP2160
+  dates: September 2020 - till now
   quote: >
-   Short description of the company (optional)
+    COMP2160 is a Computer Science course which introduces to issues 
+    involved in real-world computing using C programming language.
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    I am currently working as a TA/Marker for COMP2160 course which is an introduction course
+    to C programming language for second year students. Working with other TAs, I have lectured 
+    and assisted students on Lab materials and also:
+    * Provided anwsers to students' questions on forum
+    * Guided students to practice coding
+    * Marked students' work and provided helpful feedback
+
+
+- layout: left
+  company: Easyke - OneClass
+  link: https://www.easyke.com/
+  job_title: Online Tutor 
+  dates: August 2020 - till now
+  quote: >
+    Easyke is an e-learning platform designed for international students at universities 
+    and high schools across North America, Australia and the UK.
+  description: | # this will include new lines to allow paragraphs
+    Beside working as a TA/Marker for Faculty of Science -UofM, I'm also an online tutor on Easyke.
+    My responsibilities are similar to a TA/Marker's, except that Easyke encourages tutors to share 
+    new knowledge and better ways to approach students' problem. There are variety of problems in Computer Science
+    and Math which I have:
+    * Helped students understand the problem and find the best approach
+    * Provided material and resources to assist students with their study 
+    * Initiated live lecture to enhance students' study experience 
+
+
+- layout: left
+  company: North Seattle College, WA, United States
+  link: https://northseattle.edu/
+  job_title: Computer Science Tutor
+  dates: October 2014 - April 2015
+  quote: >
+    NSC Help Center is a great place for students in NSC to come looking for help with any subject from writing, history 
+    to Engineer and Computer Science. No booking is required as the Help Center has so many tutor, provides face to face tutoring
+    with only a short wait time. 
+
+  description: | # this will include new lines to allow paragraphs
+    Worked as a part-time tutor with my responsibility is to help walk-in students with their problems 
+    in Computer Science courses:
+    * Worked with students in classrooms, small study areas or home environments to provide educational support
+    * Mentored students with programming fundamentals in Python and Pascal using flexible and customizable study plans
+    * Provided specific one-on-one sessions for students to improve their skills based on their level of academic competency
+    * Improved student's codes, especially runtime and performance base on making changes in their choices of data types and structures

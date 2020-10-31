@@ -1,0 +1,14 @@
+- layout: left
+  company: Technical Skills
+  description: | # this will include new lines to allow paragraphs
+    * **Programming Languages**: Java, Object-Oriented Programming, C, C++, Assembly Language, LC-3/MIPS, Python, Pascal, SQL
+    * **Software**: Unity, Android Studio, Xcode, Eclipse, IntelliJ, Notepad++, Visual Studio, Netbeans, Git/GitHub, Adobe Photoshop, Microsoft Office
+    * **Operating Systems/Platforms**: Windows 10, Mac OS, Linux, Node.js, Unix
+
+- layout: left
+  company: Soft Skills
+  description: | # this will include new lines to allow paragraphs
+    * Flexible and adaptable
+    * Problem-solving
+    * Active listening and communication
+    * Team collaboration
