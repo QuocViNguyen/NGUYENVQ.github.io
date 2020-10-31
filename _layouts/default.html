@@ -16,6 +16,14 @@
 
       {%- include about.html -%}
 
+      {%- if site.data.education.size > 0 -%}
+      {%- include education.html -%}
+      {%- endif -%}
+
+      {%- if site.data.volunteer.size > 0 -%}
+      {%- include volunteer.html -%}
+      {%- endif -%}
+
       {%- if site.data.projects.size > 0 -%}
         {%- include projects.html -%}
       {%- endif -%}
@@ -24,9 +32,9 @@
         {%- include experience.html -%}
       {%- endif -%}
 
-      {%- if site.data.education.size > 0 -%}
+      <!-- {%- if site.data.education.size > 0 -%}
         {%- include education.html -%}
-      {%- endif -%}
+      {%- endif -%} -->
 
       {%- if site.more_content -%}
         {%- include more.html -%}

@@ -8,7 +8,7 @@ name: Quoc Vi Nguyen
 title: Future Junior Developer
 email: nguyenvq@myumanitoba.ca
 phone: 204-291-9411
-website: https://quocvinguyen.github.io/NGUYENVQ.github.io/
+website: https://quocvinguyen.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -39,19 +39,14 @@ additional_links:
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: /images/profile_icon.jpg
+about_profile_image: /images/iconic.png
 #Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Quoc and I'm a senior Computer Science student at the University of Manitoba. 
-  My focus are <mark>Software Engineering</mark> and <mark>Game Development</mark>. 
+  My focus areas are <mark>Software Engineering</mark> and <mark>Game Development</mark>. 
   Beside technical experience I have also worked as a tutor/TA/marker for various range of students in many countries:
     * Canada
     * Australia
