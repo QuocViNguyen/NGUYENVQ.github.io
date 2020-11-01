@@ -28,7 +28,9 @@ Search for templates with theme completely supported by GitHub Pages, then selec
 ![Locate Theme](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/my_gifs/locate_theme.gif)
 
 #### 2. Fork the template's repository
-After you have successfully located the wanted Jekyll template on GitHub, fork the repository by clicking on the <mark>Fork</mark> option on the upper right hand side of the page. ![Fork Click](https://raw.githubusercontent.com/LearnFrontEnd/fork-me/master/img/fork_click.gif)
+After you have successfully located the wanted Jekyll template on GitHub, fork the repository by clicking on the <mark>Fork</mark> option on the upper right hand side of the page. 
+
+![Fork Click](https://raw.githubusercontent.com/LearnFrontEnd/fork-me/master/img/fork_click.gif)
 
 #### 3. Rename the forked repository 
 When the forked repo appears in your GitHub, rename it by clicking on Settings, and the firstt option should be Repository Name
@@ -38,6 +40,8 @@ When the forked repo appears in your GitHub, rename it by clicking on Settings, 
 After the repository is renamed, we can now step in and modify the front matter and add your resume content. In the repository, locate to <mark>_data</mark> folder. In there, you will see 3 exisiting files: **education.yml, experience.yml, projects.yml**. Click on education.yml to open it for editing. 
 ![front matter](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/my_gifs/edit_front_matter.gif)
 In education.yml file, edit your resume content follows the format given. This is a great template because it has the data template at where it should be, so you don't have to look for the right syntax/format. My recommendation is to copy that sample code block, paste it, then comment out the sample block, then modify the pasted block.
+
+![edit data](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/my_gifs/edit_data.gif)
 
 
 
