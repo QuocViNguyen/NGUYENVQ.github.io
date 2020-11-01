@@ -54,7 +54,7 @@ In the main directory of the repo, locate to the file named **_config.yml**. Fol
 ---
 #### 6. Access your hosted (by GitHub Pages) website
 Go to your repository in GitHub --> Settings --> Scroll down to near-bottom --> GitHub Pages section. You should see your site have been successfully hosted by GitHub Pages at 
-<mark>*yourusername*.github.io</mark>
+<mark>yourusername.github.io</mark>
 
 ![](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/images/hosted.png)
 
