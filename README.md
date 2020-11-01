@@ -1,7 +1,7 @@
 # **How to Host Your Resume on GitHub Pages**
 ---
 ### **Purpose**
-The purpose of creating this instruction file is to help people who have very little or some experience with GitHub, to host their resume online using a **markdown editor**, **Jekyll** and a built-in GitHub's feature - **GitHub Pages**. To do so, a provided instruction set of the process of making it will be shown step by step in below sections. This instruction is most suitable for people who have limited experience in hosting/formatting resumes online. In this instruction file, I will also explain my choices are Jekyll, Markdown and GitHub Pages using Andrew Etter’s word in his book: **Modern Technical Writing**. To be more specific, I will use a Jekyll template with theme completely supported by GitHub Pages.
+The purpose of creating this instruction file is to help people who have very little or some experience with GitHub and Web Development, to host their resume online using a **markdown editor**, **Jekyll** and a built-in GitHub's feature - **GitHub Pages**. To do so, a provided instruction set of the process of making it will be shown step by step in below sections. This instruction is most suitable for people who have limited experience in hosting/formatting resumes online. In this instruction file, I will also explain my choices are Jekyll, Markdown and GitHub Pages using Andrew Etter’s word in his book: **Modern Technical Writing**. To be more specific, I will use a Jekyll template with theme completely supported by GitHub Pages.
 
 ---
 ### **Prerequisites**
