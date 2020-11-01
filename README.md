@@ -23,19 +23,23 @@ In this instruction file, I will show you how to get it done with the third opti
 
 ---
 ### **Hosting Resume on GitHub Pages (Using supported template by GitHub Pages)**
-#### Locate a Jekyll template with theme completely supported by GitHub Pages
+#### 1. Locate a Jekyll template with theme completely supported by GitHub Pages
 Search for templates with theme completely supported by GitHub Pages, then select favourite template, and locate it on GitHub. In this case, I will use [James Grant's template](https://github.com/sproogen/modern-resume-theme). 
 ![Locate Theme](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/my_gifs/locate_theme.gif)
 
-#### Fork the template's repository
+#### 2. Fork the template's repository
 After you have successfully located the wanted Jekyll template on GitHub, fork the repository by clicking on the <mark>Fork</mark> option on the upper right hand side of the page
 ![Fork Click](https://raw.githubusercontent.com/LearnFrontEnd/fork-me/master/img/fork_click.gif)
 
-#### Rename the forked repository 
+#### 3. Rename the forked repository 
 When the forked repo appears in your GitHub, rename it by clicking on Settings, and the firstt option should be Repository Name
 ![Rename](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/my_gifs/rename.gif)
 
-#### Modify the front matter of the source code
+#### 4. Modify the front matter of the source code
+After the repository is renamed, we can now step in and modify the front matter and add your resume content. In the repository, locate to <mark>_data</mark> folder. In there, you will see 3 exisiting files: **education.yml, experience.yml, projects.yml**. Click on education.yml to open it for editing. 
+![front matter](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/my_gifs/edit_front_matter.gif)
+
+
 
 
 ---
