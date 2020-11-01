@@ -60,7 +60,7 @@ Go to your repository in GitHub --> Settings --> Scroll down to near-bottom --> 
 
 ---
 
-### Author and Acknowledgements
+### :black_nib::black_nib::black_nib:Author and Acknowledgements
 Author: Quoc Vi Nguyen
 
 Acknowledgements: 
