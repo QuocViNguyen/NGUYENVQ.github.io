@@ -22,6 +22,10 @@ With Jekyll, we have 3 basic options:
 In this instruction file, I will show you how to get it done with the third option since it is a not-much-more complex but much more interesting approach to using Jekyll.
 
 ---
+### **Demo**
+![demo](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/images/demo.png) 
+
+---
 ### **Hosting Resume on GitHub Pages (Using supported template by GitHub Pages)**
 #### 1. Locate a Jekyll template with theme completely supported by GitHub Pages
 Search for templates with theme completely supported by GitHub Pages, then select favourite template, and locate it on GitHub. In this case, I will use [James Grant's template](https://github.com/sproogen/modern-resume-theme). 
@@ -36,14 +40,23 @@ Fork the repository by clicking on the <mark>Fork</mark> option on the upper rig
 Rename it by clicking on Settings --> the firstt option should be Repository Name
 ![Rename](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/my_gifs/rename.gif)
 
-#### 4. Modify the front matter of the source code
+#### 4. Modify yml file to add resume content
 Step in and modify the front matter and add your resume content. In the repository, locate to <mark>_data</mark> folder. In there, you will see 3 exisiting files: **education.yml, experience.yml, projects.yml**. Click on education.yml to open it for editing. 
 
-In education.yml file, edit your resume content follows the format given. My recommendation is to copy that sample code block, paste it, then comment out the sample block, then modify the pasted block.
+In education.yml file, edit your resume content follows the format given. My recommendation is to copy that sample code block, paste it, then comment out the sample block, then modify the pasted block. Continue doing so for experience.yml & projects.yml to modify your experience and project sections.
 
 ![edit data](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/my_gifs/edit_data.gif)
 
+#### 5. Edit Personal Info and About Me section
+In the main directory of the repo, locate to the file named **_config.yml**. Follow the instruction and sample code block to add your Personal Info and About Me section data.
+![config](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/images/congif.png)
 
+---
+#### 6. Access your hosted (by GitHub Pages) website
+Go to your repository in GitHub --> Settings --> Scroll down to near-bottom --> GitHub Pages section. You should see your site have been successfully hosted by GitHub Pages at 
+<mark>*yourusername*.github.io</mark>
+
+![](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/images/hosted.png)
 
 ---
 ### :question::question::question:FAQs
