@@ -60,7 +60,17 @@ Go to your repository in GitHub --> Settings --> Scroll down to near-bottom --> 
 
 ---
 
-### Author and Acknowledgements :black_nib::black_nib::black_nib:
+### **Warning :no_entry::no_entry::no_entry:**
+* GitHub Pages take sometimes to refresh and show updated changes, so be patient
+* Editing in `_config.yml` requires you to rebuild to update changes
+* To add more sections in the resume, you have to add 3 things: 
+  * a content file `newsection.yml` in _data folder
+  * an html file for that new section in `_includes folder`
+  * Edit in `default.html` in the _layout folder. For more infomation, please check [here](https://github.com/sproogen/modern-resume-theme/blob/master/_layouts/default.html)
+
+---
+
+### **Author and Acknowledgements :black_nib::black_nib::black_nib:**
 Author: Quoc Vi Nguyen
 
 Acknowledgements: 
@@ -74,7 +84,7 @@ Acknowledgements:
 
 
 ---
-### FAQs :question::question::question:
+### **FAQs :question::question::question:**
 **1. Is there any easier way to build a Jekyll website beside forking supported templates?**
 
 * Yes, there is. As stated in "Choices Jekyll provides" section, you can use GitHub Page's existing Jekyll themes, which is very simple. You only need to manipulate config.yml and index.md files only.
