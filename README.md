@@ -30,7 +30,7 @@ After you have successfully located the wanted Jekyll template on GitHub, fork t
 
 ##### Rename the forked repository 
 When the forked repo appears in your GitHub, rename it by clicking on Settings, and the firstt option should be Repository Name
-![Rename]()
+![Rename](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/my_gifs/rename.gif)
 
 ##### Modify the front matter of the source code
 
