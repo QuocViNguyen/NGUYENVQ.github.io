@@ -1,7 +1,9 @@
 # How to Host Your Resume on GitHub Pages
+---
 ### **Intention**
 The purpose of creating this instruction file is to help people who have very little or some experience with GitHub, to host their resume online using a **markdown editor**, **Jekyll** and a built-in GitHub's feature - **GitHub Pages**. To do so, a provided instruction set of the process of making it will be shown step by step in below sections. This instruction is most suitable for people who have limited experience in hosting/formatting resumes online. In this instruction file, I will also explain my choices are Jekyll, Markdown and GitHub Pages using Andrew Etter’s word in his book: **Modern Technical Writing**. To be more specific, I will use a Jekyll template with theme completely supported by GitHub Pages.
 
+---
 ### **Prerequisites**
 Before stepping into this tutorial, there several requirements:
 * A complete, up-to-date resume (online or hard copy)
@@ -10,6 +12,7 @@ Before stepping into this tutorial, there several requirements:
 * A markdown editor: [dillinger.io](https://dillinger.io/) and [Visual Studio Code](https://code.visualstudio.com/) are great choices.
 * Basic knowledge of Jekyll. For more information, check out [Jekyll Tutorial](https://www.youtube.com/watch?v=T1itpPvFWHI&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
 
+---
 ### **Choices Jekyll provides**
 With Jekyll, we have 3 basic options:
 * Build a website from scratch like the tutorial in the given link above
@@ -18,7 +21,7 @@ With Jekyll, we have 3 basic options:
 
 In this instruction file, I will show you how to get it done with the third option since it is a not-much-more complex but much more interesting approach to using Jekyll.
 
-
+---
 ### **Hosting Resume on GitHub Pages (Using supported template by GitHub Pages)**
 #### Locate a Jekyll template with theme completely supported by GitHub Pages
 Search for templates with theme completely supported by GitHub Pages, then select favourite template, and locate it on GitHub. In this case, I will use [James Grant's template](https://github.com/sproogen/modern-resume-theme). 
@@ -35,7 +38,7 @@ When the forked repo appears in your GitHub, rename it by clicking on Settings, 
 #### Modify the front matter of the source code
 
 
-
+---
 ### :question::question::question:FAQs
 **1. Is there any easier way to build a Jekyll website beside forking supported templates?**
 
