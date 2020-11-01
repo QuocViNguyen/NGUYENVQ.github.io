@@ -59,6 +59,21 @@ Go to your repository in GitHub --> Settings --> Scroll down to near-bottom --> 
 ![](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/images/hosted.png)
 
 ---
+
+### Author and Acknowledgements
+Author: Quoc Vi Nguyen
+
+Acknowledgements: 
+* Christina Penner for:
+   * Recommends this approach on how to host a resume online
+   * Provided a list popular Markdown editors
+   * Introduces me to Andrew Etter and his awesome book: Morden Technical Writing
+* Andrew Etter's book for:
+   * Introduces me to static website generator and its advantages
+
+
+
+---
 ### :question::question::question:FAQs
 **1. Is there any easier way to build a Jekyll website beside forking supported templates?**
 
