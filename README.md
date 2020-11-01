@@ -37,11 +37,11 @@ When the forked repo appears in your GitHub, rename it by clicking on Settings, 
 
 
 ### :question::question::question:FAQs
-1. Is there any easier way to build a Jekyll website beside forking supported templates?
+**1. Is there any easier way to build a Jekyll website beside forking supported templates?**
 
 * Yes, there is. As stated in "Choices Jekyll provides" section, you can use GitHub Page's existing Jekyll themes, which is very simple. You only need to manipulate config.yml and index.md files only.
 
-2. Why should I use Markdown? Isn't only for documentation?
+**2. Why should I use Markdown? Isn't only for documentation?**
 
 * Markdown is very simple and have the following advantages in the table below, and it is famous for being use in online documentation, but Jekyll has amazingly integrated markdown into static web development. Now, you can easily create a website using mostly Markdown, isn't it great? 
 
