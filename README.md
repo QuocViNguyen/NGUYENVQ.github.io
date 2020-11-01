@@ -73,6 +73,7 @@ Go to your repository in GitHub --> Settings --> Scroll down to near-bottom --> 
 - Introduction to [GitHub Pages](https://help.github.com/en/categories/workingwith-github-pages).
 - Introduction to [GitHub Flavored Markdown](https://github.github.com/gfm/).
 - [MarkDown Tutorial](https://www.markdowntutorial.co/).
+- Andrew Etter's [book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 - Jekyll official [site](https://jekyllrb.com/docs/front-matter/)
 
 ---
