@@ -48,7 +48,7 @@ In `education.yml` file, edit your resume content follows the format given. My r
 ![edit data](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/my_gifs/edit_data.gif)
 
 #### 5. Edit Personal Info and About Me section
-In the main directory of the repo, locate to the file named `**_config.yml**`. Follow the instruction and sample code block to add your Personal Info and About Me section data.
+In the main directory of the repo, locate to the file named `_config.yml`. Follow the instruction and sample code block to add your Personal Info and About Me section data.
 ![config](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/images/congif.png)
 
 ---
