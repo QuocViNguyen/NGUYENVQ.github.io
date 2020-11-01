@@ -66,7 +66,7 @@ Go to your repository in GitHub --> Settings --> Scroll down to near-bottom --> 
 * To add more sections in the resume, you have to add 3 things: 
   * a content file `newsection.yml` in _data folder
   * an html file for that new section in `_includes folder`
-  * Edit in `default.html` in the _layout folder. For more infomation, please check [here](https://github.com/sproogen/modern-resume-theme/blob/master/_layouts/default.html)
+  * Edit in `default.html` in the _layout folder. For more infomation, please check [here](https://github.com/sproogen/modern-resume-theme/blob/master/_layouts/default.html) and [here](https://i.imgur.com/8I0etYW.png)
 
 ---
 
