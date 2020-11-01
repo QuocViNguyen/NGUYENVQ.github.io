@@ -32,29 +32,29 @@ Search for templates with theme completely supported by GitHub Pages, then selec
 ![Locate Theme](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/my_gifs/locate_theme.gif)
 
 #### 2. Fork the template's repository
-Fork the repository by clicking on the <mark>Fork</mark> option on the upper right hand side of the page. 
+Fork the repository by clicking on the <mark>`Fork`</mark> option on the upper right hand side of the page. 
 
 ![Fork Click](https://raw.githubusercontent.com/LearnFrontEnd/fork-me/master/img/fork_click.gif)
 
 #### 3. Rename the forked repository 
-Rename it by clicking on Settings --> the firstt option should be Repository Name
+Rename it by clicking on Settings --> the first option should be Repository Name
 ![Rename](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/my_gifs/rename.gif)
 
 #### 4. Modify yml file to add resume content
 Step in and modify the front matter and add your resume content. In the repository, locate to <mark>_data</mark> folder. In there, you will see 3 exisiting files: **education.yml, experience.yml, projects.yml**. Click on education.yml to open it for editing. 
 
-In education.yml file, edit your resume content follows the format given. My recommendation is to copy that sample code block, paste it, then comment out the sample block, then modify the pasted block. Continue doing so for experience.yml & projects.yml to modify your experience and project sections.
+In `education.yml` file, edit your resume content follows the format given. My recommendation is to copy that sample code block, paste it, then comment out the sample block, then modify the pasted block. Continue doing so for `experience.yml` & `projects.yml` to modify your experience and project sections.
 
 ![edit data](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/my_gifs/edit_data.gif)
 
 #### 5. Edit Personal Info and About Me section
-In the main directory of the repo, locate to the file named **_config.yml**. Follow the instruction and sample code block to add your Personal Info and About Me section data.
+In the main directory of the repo, locate to the file named `**_config.yml**`. Follow the instruction and sample code block to add your Personal Info and About Me section data.
 ![config](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/images/congif.png)
 
 ---
 #### 6. Access your hosted (by GitHub Pages) website
 Go to your repository in GitHub --> Settings --> Scroll down to near-bottom --> GitHub Pages section. You should see your site have been successfully hosted by GitHub Pages at 
-<mark>yourusername.github.io</mark>
+`yourusername.github.io`
 
 ![](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/images/hosted.png)
 
