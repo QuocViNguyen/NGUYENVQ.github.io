@@ -60,7 +60,7 @@ Go to your repository in GitHub --> Settings --> Scroll down to near-bottom --> 
 
 ---
 
-### :black_nib::black_nib::black_nib:Author and Acknowledgements
+### Author and Acknowledgements :black_nib::black_nib::black_nib:
 Author: Quoc Vi Nguyen
 
 Acknowledgements: 
@@ -74,7 +74,7 @@ Acknowledgements:
 
 
 ---
-### :question::question::question:FAQs
+### FAQs :question::question::question:
 **1. Is there any easier way to build a Jekyll website beside forking supported templates?**
 
 * Yes, there is. As stated in "Choices Jekyll provides" section, you can use GitHub Page's existing Jekyll themes, which is very simple. You only need to manipulate config.yml and index.md files only.
