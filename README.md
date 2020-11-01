@@ -67,6 +67,13 @@ Go to your repository in GitHub --> Settings --> Scroll down to near-bottom --> 
   * a content file `newsection.yml` in _data folder
   * an html file for that new section in `_includes folder`
   * Edit in `default.html` in the _layout folder. For more infomation, please check [here](https://github.com/sproogen/modern-resume-theme/blob/master/_layouts/default.html) and [here](https://i.imgur.com/8I0etYW.png)
+  
+---
+### More Resources
+- Introduction to [GitHub Pages](https://help.github.com/en/categories/workingwith-github-pages).
+- Introduction to [GitHub Flavored Markdown](https://github.github.com/gfm/).
+- [MarkDown Tutorial](https://www.markdowntutorial.co/).
+- Jekyll official site [YAML front matter](https://jekyllrb.com/docs/front-matter/)
 
 ---
 
