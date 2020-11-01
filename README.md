@@ -26,7 +26,7 @@ In this instruction file, I will show you how to get it done with the third opti
 ![demo](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/images/demo.png) 
 
 ---
-### **Hosting Resume on GitHub Pages (Using supported template by GitHub Pages)**
+### **Hosting Resume on GitHub Pages (Using supported template by GitHub Pages) :wrench::wrench::wrench:** 
 #### 1. Locate a Jekyll template with theme completely supported by GitHub Pages
 Search for templates with theme completely supported by GitHub Pages, then select favourite template, and locate it on GitHub. In this case, I will use [James Grant's template](https://github.com/sproogen/modern-resume-theme). 
 ![Locate Theme](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/my_gifs/locate_theme.gif)
