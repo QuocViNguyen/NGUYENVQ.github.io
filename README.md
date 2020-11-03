@@ -32,19 +32,34 @@ Search for templates with theme completely supported by GitHub Pages, then selec
 
 ![Locate Theme](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/my_gifs/locate_theme.gif)
 
+---
+
 #### 2. Fork the template's repository
-Fork the repository by clicking on the <mark>`Fork`</mark> option on the upper right hand side of the page. 
+Fork the repository by clicking on the <mark>`Fork`</mark> option on the upper right hand side of the page. We go beyond Andrew Etter's recommendation by using pre-built static website Jekyll repository and extend from it.
 
 ![Fork Click](https://raw.githubusercontent.com/LearnFrontEnd/fork-me/master/img/fork_click.gif)
 
+---
+
 #### 3. Rename the forked repository 
-Rename it by clicking on Settings --> the first option should be Repository Name
+Rename it by clicking on Settings --> the first option should be Repository Name.
+
 ![Rename](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/my_gifs/rename.gif)
+
+---
+
+#### 4. Clone to your local machine
+On the middle right of the repository, select the `Code` dropdown button (in green) and copy the web URL. On your local machine, locate to the folder you want to put the project into, initiate a local git repository. Use the web URL in the copy clipboard to clone from GitHub to your local repository. For more infomation how to do so, please check [here](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository). Using GitHub is a great way to start knowing Distributed Version Control System. DVCS allows you to work offline and provide concurrent/asynchronous workflow and many more advatanges which is why "developers prefer them" (Andrew Etter 38).
+
+![clone](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/my_gifs/clone.gif)
+
+
+---
 
 #### 4. Modify yml file to add resume content
 Step in and modify the front matter and add your resume content. In the repository, locate to <mark>_data</mark> folder. In there, you will see 3 exisiting files: **education.yml, experience.yml, projects.yml**. Click on education.yml to open it for editing. 
 
-In `education.yml` file, edit your resume content follows the format given. My recommendation is to copy that sample code block, paste it, then comment out the sample block, then modify the pasted block. Continue doing so for `experience.yml` & `projects.yml` to modify your experience and project sections.
+In `education.yml` file, edit your resume content follows the format given. My recommendation is to copy that sample code block, paste it, then comment out the sample block, then modify the pasted block. Continue doing so for `experience.yml` & `projects.yml` to modify your experience and project sections. The language used to edit the yml file is Markdown - a lighweight markup language. In case you wonder why not go with XML, lightweight markup language is more human readable, maintainable and encourage people to contribute more. We choose Markdown because Andrew Etter's claim is globally true: it is wonderful and it has the cleanest syntax. The only thing to keep in mind is that you will use GitHub Flavoured Markdown, this is devired from Markdown's drawback, but it does not hurt our previous claim.
 
 ![edit data](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/my_gifs/edit_data.gif)
 
@@ -53,7 +68,11 @@ In the main directory of the repo, locate to the file named `_config.yml`. Follo
 ![config](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/images/congif.png)
 
 ---
-#### 6. Access your hosted (by GitHub Pages) website
+
+#### 6. Push your changes to GitHub
+
+---
+#### 7. Access your hosted (by GitHub Pages) website
 Go to your repository in GitHub --> Settings --> Scroll down to near-bottom --> GitHub Pages section. You should see your site have been successfully hosted by GitHub Pages at 
 `yourusername.github.io`
 
