@@ -59,7 +59,7 @@ Use the web URL in the copy clipboard to clone from GitHub to your local reposit
 
 For more information on how to do so, please check [here](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository).   
 
-Using GitHub is a great way to start knowing the Distributed Version Control System. DVCS allows you to work offline and provide concurrent/asynchronous workflow and many more advantages which is why "developers prefer them" (Andrew Etter 38).
+Using GitHub is a great way to start knowing the Distributed Version Control System. DVCS allows you to work offline and provide concurrent/asynchronous workflow and many more advantages which is why "developers prefer them" (Andrew Etter, page 38).
 
 ![clone](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/my_gifs/clone.gif)
 
