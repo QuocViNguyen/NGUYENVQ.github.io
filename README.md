@@ -130,7 +130,8 @@ As suggested by Andrew Etter in Modern Technical Writing, having your website; e
 ### **Author and Acknowledgements :black_nib::black_nib::black_nib:**
 Author: Quoc Vi Nguyen
 
-Acknowledgements: 
+Acknowledgements:
+* Connor Gehman, Jiachi Sun and Sebastian Araneda for contributing.
 * Christina Penner for:
    * Recommends this approach on how to host a resume online
    * Provided a list of popular Markdown editors
