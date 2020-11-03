@@ -23,7 +23,7 @@ In this instruction file, I will show you how to get it done with the third opti
 
 ---
 ### **Demo**
-![demo](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/images/demo.png) 
+![demo](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/my_gifs/demoQ.gif) 
 
 ---
 ### **Hosting Resume on GitHub Pages (Using supported template by GitHub Pages) :wrench::wrench::wrench:** 
