@@ -51,43 +51,61 @@ Rename it by clicking on Settings --> the first option should be Repository Name
 ---
 
 #### 4. Clone to your local machine
-On the middle right of the repository, select the `Code` dropdown button (in green) and copy the web URL.   
-On your local machine, locate to the folder you want to put the project into, initiate a local git repository.   
+On the middle right of the repository, select the `Code` dropdown button (in green) and copy the web URL.
+
+On your local machine, locate to the folder you want to put the project into, initiate a local git repository.
+
 Use the web URL in the copy clipboard to clone from GitHub to your local repository.   
+
 For more infomation how to do so, please check [here](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository).   
 
 Using GitHub is a great way to start knowing Distributed Version Control System. DVCS allows you to work offline and provide concurrent/asynchronous workflow and many more advatanges which is why "developers prefer them" (Andrew Etter 38).
 
 ![clone](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/my_gifs/clone.gif)
 
+---
+
+#### 5. Open the local repository in your Markdown editor
+On your local machine, open Visual Studio Code (or any other recommended Markdown Editor) and open the local repository. I personally recommend VSCode because of its stability and live preview feature.  
+
+![editor](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/my_gifs/editor.gif)
 
 ---
 
-#### 4. Modify yml file to add resume content
+#### 6. Modify yml file to add resume content
 Step in and modify the front matter and add your resume content. In the repository, locate to <mark>_data</mark> folder. In there, you will see 3 exisiting files: **education.yml, experience.yml, projects.yml**. Click on education.yml to open it for editing. 
 
-In `education.yml` file, edit your resume content follows the format given. My recommendation is to copy that sample code block, paste it, then comment out the sample block, then modify the pasted block.  
-Continue doing so for `experience.yml` & `projects.yml` to modify your experience and project sections.  
+In `education.yml` file, edit your resume content follows the format given. My recommendation is to copy that sample code block, paste it, then comment out the sample block, then modify the pasted block.
+
+Continue doing so for `experience.yml` & `projects.yml` to modify your experience and project sections.
+
 The language used to edit the yml file is Markdown - a lighweight markup language. In case you wonder why not go with XML, lightweight markup language is more human readable, maintainable and encourage people to contribute more. 
 
 We choose Markdown because Andrew Etter's claim is globally true: it is wonderful and it has the cleanest syntax. The only thing to keep in mind is that you will use GitHub Flavoured Markdown, this is devired from Markdown's drawback, but it does not hurt our previous claim.
 
 ![edit data](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/my_gifs/edit_data.gif)
 
-#### 5. Edit Personal Info and About Me section
+#### 7. Edit Personal Info and About Me section
 In the main directory of the repo, locate to the file named `_config.yml`. Follow the instruction and sample code block to add your Personal Info and About Me section data.
 ![config](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/images/congif.png)
 
 ---
 
-#### 6. Push your changes to GitHub
+#### 8. Push your changes to GitHub
+After finish changing/adding contents using GitHub Flavour Markdown, locate to the local repository on Terminal and perform a push command to save those changes to the remote repository. 
+
+You can simplify this step by using GitHub Desktop instead of Terminal for more user-friendly UI.
+
+For more information on how to push to your remote repository, please check [here](https://docs.github.com/en/free-pro-team@latest/github/using-git/pushing-commits-to-a-remote-repository)
 
 ---
-#### 7. Access your hosted (by GitHub Pages) website
+#### 9. Access your hosted (by GitHub Pages) website
 Go to your repository in GitHub --> Settings --> Scroll down to near-bottom --> GitHub Pages section. You should see your site have been successfully hosted by GitHub Pages at 
 `yourusername.github.io`
 
-![](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/images/hosted.png)
+Suggested by Andrew Etter in Modern Technical Writing, having your website; especially your resume online is better than storing PDF resume on your hard drives. Those PDF resumes get stale and become harmful by time while an online resume helps you keep things up-to-date with latest updates and releases.
+
+![hosted](https://github.com/QuocViNguyen/quocvinguyen.github.io/blob/master/images/hosted.png)
 
 ---
 
